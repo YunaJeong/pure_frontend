@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "img": "./product1.jpg",
+    "company": "투쿨포스쿨",
+    "title": "[애교살메이커] 투쿨포스쿨 프로타주 펜슬",
+    "originPrice": "12,000원 ~",
+    "discountPrice": "9,900원 ~",
+    "tags": [
+      { "name": "세일", "color": "#f65c60" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "./product2.jpg",
+    "company": "토니모리",
+    "title": "[NEW] 토니모리 겟잇틴트 글레이즈밤 8종",
+    "originPrice": "18,000원 ~",
+    "discountPrice": "12,600원 ~",
+    "tags": [
+      { "name": "쿠폰", "color": "#9bce26" },
+      { "name": "증정", "color": "#6fcff7" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "./product3.jpg",
+    "company": "아워글래스",
+    "title": "[NEW] 토니모리 겟잇틴트 글레이즈밤 8종",
+    "originPrice": "54,000원 ~",
+    "discountPrice": "48,600원 ~",
+    "tags": [
+      { "name": "쿠폰", "color": "#9bce26" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "./product4.jpg",
+    "company": "키스미",
+    "title": "[NEW 컬러출시] NO.1 키스미 스무스 리퀴드 아이라이너 N",
+    "originPrice": "18,000원 ~",
+    "discountPrice": "10,800원 ~",
+    "tags": [
+      { "name": "세일", "color": "#f65c60" },
+      { "name": "증정", "color": "#6fcff7" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "./product5.jpg",
+    "company": "투쿨포스쿨",
+    "title": "[NEW] 투쿨포스쿨 스머징 트임 라이너",
+    "originPrice": "12,000원 ~",
+    "discountPrice": "9,900원 ~",
+    "tags": [
+      { "name": "세일", "color": "#f65c60" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "./product6.jpg",
+    "company": "에뛰드",
+    "title": "[2월올영PICK] 에뛰드 재창조 메이커 쉐딩 멀티 스틱 브러쉬 증정기획 (웜&쿨)",
+    "originPrice": "14,000원 ~",
+    "discountPrice": "11,200원 ~",
+    "tags": [
+      { "name": "세일", "color": "#f65c60" },
+      { "name": "증정", "color": "#6fcff7" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "./product7.jpg",
+    "company": "웨이크메이크",
+    "title": "[단하루 파우치증정] 웨이크메이크 워터 블러링 픽싱 틴트 15COLOR",
+    "originPrice": "16,000원 ~",
+    "discountPrice": "11,900원 ~",
+    "tags": [
+      { "name": "세일", "color": "#f65c60" },
+      { "name": "쿠폰", "color": "#9bce26" },
+      { "name": "증정", "color": "#6fcff7" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "./product8.jpg",
+    "company": "에스쁘아",
+    "title": "[벚꽃 에디션/단독기획] 에스쁘아 비벨벳 커버쿠션 뉴클래스 기획(본품...",
+    "originPrice": "38,000원 ~",
+    "discountPrice": "30,400원 ~",
+    "tags": [
+      { "name": "세일", "color": "#f65c60" },
+      { "name": "증정", "color": "#6fcff7" },
+      { "name": "오늘드림", "color": "#f374b7" }
+    ]
+  }
+]
